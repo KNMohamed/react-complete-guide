@@ -4,7 +4,7 @@ import './NewExpense.css';
 
 export default function NewExpense() {
   return (
-    <div>
+    <div className='new-expense'>
       <ExpenseForm></ExpenseForm>
     </div>
   );
